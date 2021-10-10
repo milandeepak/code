@@ -1,6 +1,5 @@
-#My programs
-
-###Bubble Sort program
+# My programs
+### Bubble Sort program
   
   
     #include <stdio.h>
