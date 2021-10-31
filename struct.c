@@ -18,7 +18,7 @@ printf("\n");
 for(i=0;i<n;i++){
 printf("Enter Employee %d details\n",i+1);
 printf("Enter Name:");
-scanf("%s",emp[i].a);
+scanf("%s",&emp[i].a);
 printf("Enter Employee Id:");
 scanf("%d",&emp[i].no);
 printf("Enter Salary:");
